@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+@import url('https://fonts.googleapis.com/css?family=Allura');
+html{
+  scroll-behavior: smooth;
+}
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Staatliches', cursive;
+  background-color: black;
+}
+header .top{
+  position: fixed;
+  height: 50px;
+  width: 100%;
+  color: magenta;
+  background-color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: border-box;
+  line-height: 50px;
+}
+a{
+  padding-right: 20px;
+  text-decoration: none;
+  color: magenta;
+  border: border-box;
+}
+a:hover{
+  color: gold;
+  text-size: 30px;
+}
+.intro{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#hea{
+  font-size: 100px;
+  color: gold;
+}
+#non{
+  color: magenta;
+  font-family: 'Allura', cursive;
+  font-size: 30px;
+}
+#customizability{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color: #5B62F9;
+  display: flex;
+  justify-content: center;
+
+}
+#contact{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color:#7009A7;
+  display: flex;
+  justify-content: center;
+
+}
+#services{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color: #650A26;
+  display: flex;
+  justify-content: center;
+
+}
+#shop{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color: #114846;
+  display: flex;
+  justify-content: center;
+
+}
+#team{
+  margin: 0;
+  padding: 0;
+  height: 700px;
+  width: 100%;
+  background-color: #9B8F06;
+  display: flex;
+  justify-content: center;
+}
+h1{
+  text-transform: uppercase;
+  font-size: 50px;
+  color: #A1FEF6;
+  font-weight: bold;
+}

@@ -18,7 +18,7 @@ header .top{
   font-weight: bold;
   font-size: 20px;
   text-align: center;
-  display: flex;
+  display: block;
   justify-content: center;
   align-items: center;
   border: border-box;
@@ -65,34 +65,42 @@ a:hover{
 }
 #contact{
   margin: 0;
-  padding: 0;
+  padding-top: 2px;
   height: 700px;
   width: 100%;
   background-color:#7009A7;
-  display: flex;
-  justify-content: center;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
 
 }
 #services{
   margin: 0;
-  padding: 0;
+  padding-top: 2px;
   height: 700px;
   width: 100%;
   background-color: #650A26;
-  display: flex;
-  justify-content: center;
-
+  display:block;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
 }
 #shop{
   margin: 0;
-  padding: 0;
+  padding-top: 2px;
   height: 700px;
   width: 100%;
   background-color: #114846;
-  display: flex;
-  justify-content: center;
-
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
+
 #team{
   margin: 0;
   padding: 0;

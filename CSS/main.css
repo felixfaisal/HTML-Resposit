@@ -37,7 +37,7 @@ a:hover{
 .intro{
   margin: 0;
   padding: 0;
-  height: 700px;
+  height: 100vh;
   width: 100%;
   background-color: black;
   display: flex;
@@ -56,7 +56,7 @@ a:hover{
 #customizability{
   margin: 0;
   padding: 0;
-  height: 700px;
+  height: 100vh;
   width: 100%;
   background-color: #5B62F9;
   display: flex;
@@ -66,7 +66,7 @@ a:hover{
 #contact{
   margin: 0;
   padding-top: 2px;
-  height: 700px;
+  height: 100vh;
   width: 100%;
   background-color:#7009A7;
   display: block;
@@ -79,9 +79,9 @@ a:hover{
 #services{
   margin: 0;
   padding-top: 2px;
-  height: 700px;
+  height: 100vh;
   width: 100%;
-  background-color: #650A26;
+  background-color:;
   display:block;
   text-align: center;
   color: white;
@@ -91,7 +91,7 @@ a:hover{
 #shop{
   margin: 0;
   padding-top: 2px;
-  height: 700px;
+  height: 100vh;
   width: 100%;
   background-color: #114846;
   display: block;
@@ -104,15 +104,9 @@ a:hover{
 #team{
   margin: 0;
   padding: 0;
-  height: 700px;
+  height: 100vh;
   width: 100%;
   background-color: #9B8F06;
   display: flex;
   justify-content: center;
-}
-h1{
-  text-transform: uppercase;
-  font-size: 50px;
-  color: #A1FEF6;
-  font-weight: bold;
 }

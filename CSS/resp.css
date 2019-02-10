@@ -22,13 +22,4 @@
 		padding-right:10px;
 	}
 }
-@media only screen and (max-width:400px) {
-	header .top{
-		height:20px;
-		font-size:15px;
-	}
-	header a{
-		padding-right:5px;
-	}
-}
 

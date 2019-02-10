@@ -1,0 +1,34 @@
+@media only screen and (max-width:1024px) {
+	header .top{
+	height:40px;
+	}
+	
+}
+@media only screen and (max-width:768px) {
+	header .top {
+		height:30px;
+		font-size:20px;
+	}
+	header a{
+		padding-right:15px;
+	}
+}
+@media only screen and (max-width:600px) {
+	header .top{
+		height:20px;
+		font-size:15px;
+	}
+	header a{
+		padding-right:10px;
+	}
+}
+@media only screen and (max-width:400px) {
+	header .top{
+		height:20px;
+		font-size:15px;
+	}
+	header a{
+		padding-right:5px;
+	}
+}
+

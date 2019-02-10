@@ -1,9 +1,54 @@
 @media only screen and (max-width:1024px) {
 	header .top{
-	height:50px;
-	
+	height:40px;
 	}
 	
 }
+@media only screen and (max-width:768px) {
+	header .top {
+		height:30px;
+		font-size:20px;
+	}
+	header a{
+		padding-right:15px;
+	}
+}
+@media only screen and (max-width:600px) {
+	header .top{
+		height:40px;
+		font-size:15px;
+		line-height:35px;
+	}
+	header a{
+		padding-right:10px;
+	}
+	.intro h1{
+		font-size:13em;
+}
 
-
+@media only screen and (max-width:400px) {
+	header .top{
+		height:40px;
+		font-size:15px;
+		line-height:35px;
+	}
+	header a{
+		padding-right:5px;
+	}
+	.intro h1{
+		font-size:10em;
+	}
+}
+@media only screen and (max-width:200px) {
+	header .top{
+		height:40px;
+		font-size:12px;
+		line-height:35px;
+	}
+	header a{
+		padding-right:5px;
+	}
+	.intro h1{
+		font-size:2em;
+	}
+}

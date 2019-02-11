@@ -44,4 +44,19 @@
 	.intro h1{
 		font-size:6em;
 	}
+	.services h1{
+		font-size:30px;
+	}
+	.shop h1{
+		font-size:30px;
+	}
+	.contact h1{
+		font-size:30px;
+	}
+	.team h1{
+		font-size:30px;
+	}
+	.customizability h1{
+		font-size:30px;
+	}
 }

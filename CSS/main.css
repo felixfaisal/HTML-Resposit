@@ -9,6 +9,10 @@ body{
   background-color: black;
   font-family: 'Bungee', cursive;
 }
+p{
+  font-family: 'Sanchez', serif;
+}
+  
 header .top{
   position: fixed;
   height: 50px;

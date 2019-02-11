@@ -77,6 +77,10 @@
 	.services h1{
 		font-size:30px;
 	}
+	.services p{
+		text-align:center;
+		font-size:15px;
+	}
 	.shop h1{
 		font-size:30px;
 	}

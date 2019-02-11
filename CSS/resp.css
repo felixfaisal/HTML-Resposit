@@ -2,39 +2,46 @@
 	header .top{
 	height:40px;
 	line-height:40px;
+	font-size:20px;
+	}
+	header a{
+		padding-right:15px;
 	}
 	
 }
 @media only screen and (max-width:768px) {
 	header .top {
 		height:40px;
-		font-size:20px;
-		line-height:40px;
-	}
-	header a{
-		padding-right:20px;
-	}
-}
-@media only screen and (max-width:600px) {
-	header .top{
-		height:30px;
 		font-size:15px;
-		line-height:30px;
+		line-height:40px;
 	}
 	header a{
 		padding-right:10px;
 	}
 }
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:600px) {
 	header .top{
 		height:30px;
-		font-size:12px;
+		font-size:10px;
 		line-height:30px;
 	}
 	header a{
-		padding-right:4px;
+		padding-right:5px;
 	}
 	.intro h1{
 		font-size:8em;
+	}
+}
+@media only screen and (max-width:400px) {
+	header .top{
+		height:30px;
+		font-size:8px;
+		line-height:30px;
+	}
+	header a{
+		padding-right:2px;
+	}
+	.intro h1{
+		font-size:6em;
 	}
 }

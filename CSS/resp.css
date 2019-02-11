@@ -31,6 +31,21 @@
 	.intro h1{
 		font-size:8em;
 	}
+	.services h1{
+		font-size:35px;
+	}
+	.shop h1{
+		font-size:35px;
+	}
+	.contact h1{
+		font-size:35px;
+	}
+	.team h1{
+		font-size:35px;
+	}
+	.customizability h1{
+		font-size:30px;
+	}
 }
 @media only screen and (max-width:400px) {
 	header .top{
